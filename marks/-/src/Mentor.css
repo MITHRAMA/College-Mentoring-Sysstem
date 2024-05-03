@@ -1,0 +1,13 @@
+.small-box-container {
+    float: right;
+    width: 500px; /* Adjust the width as needed */
+    overflow-y: auto; /* Enable vertical scrolling if content exceeds the box height */
+    height: calc(100vh - 100px); /* Adjust the height based on your layout */
+    border: 1px solid black;
+    padding: 10px;
+    
+  }
+  
+ 
+  
+  
